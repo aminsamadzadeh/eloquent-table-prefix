@@ -1,0 +1,27 @@
+{
+    "name": "aminsamadzadeh/eloquent-table-prefix",
+    "description": "add prefix to eloquent tables",
+    "type": "laravel",
+    "require": {
+        "laravel/framework": "^7.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "AminSamadzadeh\\EloquentTablePrefix\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "AminSamadzadeh\\EloquentTablePrefix\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amin",
+            "email": "amin.samadzadeh@gmail.com"
+        }
+    ]
+}
