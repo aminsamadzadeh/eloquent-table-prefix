@@ -1,4 +1,5 @@
 #Eloquent Table Prefix
+
 With this package you can add prefix to your tables.
 
 ## Installing
